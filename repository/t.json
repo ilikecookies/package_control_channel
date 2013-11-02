@@ -1054,7 +1054,7 @@
 			"details": "https://github.com/ilikecookies/theme-blocks",
 			"issues": "https://github.com/ilikecookies/theme-blocks/issues",
 			"author": "Miguel Quiambao",
-			"labels": ["theme],
+			"labels": ["theme"],
 			"releases": [
 				{
 					"sublime_text": "*",
