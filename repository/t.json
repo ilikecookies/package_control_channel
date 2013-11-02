@@ -1048,6 +1048,19 @@
 					"details": "https://bitbucket.org/danielsiepmann-team/sublime-text-typoscript/src/default"
 				}
 			]
+		},
+		{
+			"name": "Theme - Blocks",
+			"details": "https://github.com/ilikecookies/theme-blocks",
+			"issues": "https://github.com/ilikecookies/theme-blocks/issues",
+			"author": "Miguel Quiambao",
+			"labels": ["theme],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/ilikecookies/theme-blocks/tags"
+				}
+			]
 		}
 	]
 }
